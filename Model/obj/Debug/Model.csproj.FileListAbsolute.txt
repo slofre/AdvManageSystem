@@ -1,0 +1,13 @@
+D:\Проекты\AdvManageSystem\Model\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Model.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Model.pdb
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Dapper.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Dapper.pdb
+D:\Проекты\AdvManageSystem\Model\bin\Debug\Dapper.xml
+D:\Проекты\AdvManageSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Проекты\AdvManageSystem\Model\obj\Debug\Model.dll
+D:\Проекты\AdvManageSystem\Model\obj\Debug\Model.pdb

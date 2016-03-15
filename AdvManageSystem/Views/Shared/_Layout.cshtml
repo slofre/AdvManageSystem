@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9"/>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        @{
+            Html.RenderPartial("_Head");
+        }
+        
+        @RenderSection("scripts", required: false)
+
+    </head>
+    <body>
+        <div class="container">
+          @RenderBody();	
+        </div>
+    </body>
+</html>
